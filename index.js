@@ -52,9 +52,4 @@ clearBtn.addEventListener("dblclick", function(){
   render(myLeads) // clear the DOM
 })
 
-// let myLeads = '["www.awesomelead.com"]'
-// myLeads = JSON.parse(myLeads)
-// myLeads.push("www.facebook.com")
-// myLeads = JSON.stringify(myLeads)
-// console.log(typeof myLeads) --> what type myLeads is?
 
